@@ -1,0 +1,7 @@
+argparse
+socket
+subprocess
+threading
+sys
+signal
+colorama
